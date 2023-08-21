@@ -5,7 +5,7 @@ plotly
 plotly-express
 seaborn
 streamlit
-streamlit-pandas-profiling
+streamlit-pandas-profiling 
 pandas-profiling
 ydata-profiling
 
