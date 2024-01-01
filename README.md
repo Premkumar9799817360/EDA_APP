@@ -1,2 +1,2 @@
 # EDA_APP
- Live - https://edaapp-ujrqicbhzgymeiqcw6cpek.streamlit.app/
+ Live - https://premkumar-eda-app.streamlit.app/
