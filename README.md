@@ -7,7 +7,7 @@ It uncovers hidden patterns, relationships, anomalies, and presents them in a vi
 ---
 
 ## 🏠 Project Start  
-![Project Start](images/start.png)  
+![Project Start](https://github.com/Premkumar9799817360/EDA_APP/blob/main/home%20page%20.jpg)  
 
 
 ## 🚀 Live Demo  
@@ -34,21 +34,25 @@ This is a complete **end-to-end data analysis project** powered by:
 
 ---
 
-## 🧱 Project Home Page 
-![Project Home page ](images/architecture.png)  
+## 🧱 Project 
+![Project Home page ](https://github.com/Premkumar9799817360/EDA_APP/blob/main/first%20page.jpg)  
 
 ---
 
 ## 📸 Sample Outputs  
 
-### 🔹 Correlation Heatmap  
-![Correlation Heatmap](images/correlation.png)  
+### 🔹 Data Profiling Report  
+![Data Report](https://github.com/Premkumar9799817360/EDA_APP/blob/main/second%20page.jpg)  
 
 ### 🔹 Column Relationship Visualization  
-![Relationship Graph](images/relationship.png)  
+![Relationship Graph](https://github.com/Premkumar9799817360/EDA_APP/blob/main/three%20page.jpg)  
 
-### 🔹 Data Profiling Report  
-![Data Report](images/report.png)  
+### 🔹 Correlation Heatmap  
+![Correlation Heatmap](https://github.com/Premkumar9799817360/EDA_APP/blob/main/four%20page.jpg)  
+
+
+
+
 
 ---
 
