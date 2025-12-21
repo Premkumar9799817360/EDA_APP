@@ -6,6 +6,7 @@ It uncovers hidden patterns, relationships, anomalies, and presents them in a vi
 
 ---
 
+
 ## 🏠 Project Start  
 ![Project Start](https://github.com/Premkumar9799817360/EDA_APP/blob/main/home%20page%20.jpg)  
 
