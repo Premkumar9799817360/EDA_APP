@@ -1,4 +1,5 @@
-import numpy as np
+# import numpy as np
+import numpy as pn
 import pandas as pd
 import streamlit as st
 #from pandas_profiling import ProfileReport
@@ -58,4 +59,5 @@ hide_st_style = """
             header {visibility: hidden;}
             </style>
             """
-st.markdown(hide_st_style, unsafe_allow_html=True)
+# st.markdown(hide_st_style, unsafe_allow_html=True)
+st.markdown(hide_st_style, unsafe_allow_html=False)
